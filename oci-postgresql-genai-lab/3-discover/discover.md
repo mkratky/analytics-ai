@@ -217,6 +217,7 @@ A Database system is PostgreSQL database cluster running on one or more OCI VM C
 
 
 **Bonus Task: Deploying PGAdmin GUI on OCI with Container Instances**
+
 This guide will walk you through deploying PGAdmin GUI console on Oracle Cloud Infrastructure (OCI) using Container Instances. 
 Only high level steps for creating OCI Container Instances service instance are covered in this guide.
 For detailed instructions on creating container instances on OCI and the service details, please refer to the Container Instances documentation.
