@@ -247,7 +247,7 @@ Go the Cloud console 3-bar/hamburger menu and select the following
   15. Click Next button
   16. Click Create button
   17. Once your container instance is created and running, you can access the PGAdmin GUI through your web browser. On the instance details page copyn Public IP address
-  18. In your web browser use the following URL format, replacing <container instance IP> with the actual IP address of your container instance: http://<container instance IP>
+  18. In your web browser use the following URL format, replacing <container instance IP> with the actual IP address of your container instance: http://container instance IP
   19. Login to PGAmin console using the credentials you have provided in the container environment variables
   20. In the PGAdmin GUI, register your PostgreSQL database instance. In the connection details use the endpoint IP adress of your PostgreSQL cluster for hostnane, database user name and password are the same as in env.sh (TF_VAR_db_user and TF_VAR_db_password) you have configured at the beginning of this lab for terraform automation. 
 
