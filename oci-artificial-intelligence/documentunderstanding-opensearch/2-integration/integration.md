@@ -382,7 +382,7 @@ Unable to test connection RestVisionAI_1711400081.
 
 ## Acknowledgements
 
-- **Author**
-    - Marc Gueury, Master Principal Account Cloud Engineer
-    - Badr Aissaoui, Principal Account Cloud Engineer
-    - Marek Krátký, Cloud Storage Specialist 
+- **Authors**
+    - Marek Krátký, Principal Solution Architect, EMEA 
+    - Marc Gueury, Master Principal Cloud Engineer
+
