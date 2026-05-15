@@ -137,8 +137,6 @@ Estimated time: 20 min
 Here's what you accomplished. You provisioned multiple services into a compartment in your OCI tenancy. These included Oracle Integration Cloud (OIC), several AI services (such as OCI Document Understanding and OCI Language), and Oracle Search with OpenSearch. You imported a project into OIC that ingests document files from Object Storage, sends them to AI services based on the file type, and then loads extracted data into an OpenSearch index. You configured all of the service connections used by that OIC project and then you ran the integration project. Finally, you imported an application project into Visual Builder, you configured the connection to OpenSearch, and then you ran the project to display a search user interface. You used that search tool to query the content added to the OpenSearch index. This workshop has illustrated how different OCI services can be integrated together to use AI to make many types of content more searchable.
 
 ## Acknowledgements
-- **Author**
-    - Marc Gueury, Master Principal Account Cloud Engineer
-    - Badr Aissaoui, Principal Account Cloud Engineer
-    - Marek Krátký, Cloud Storage Specialist 
-
+- **Authors**
+    - Marek Krátký, Principal Solution Architect, EMEA 
+    - Marc Gueury, Master Principal Cloud Engineer
