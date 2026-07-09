@@ -105,4 +105,4 @@ allow group <GROUP-NAME> to use cloud-shell-public-network in tenancy
 
 - **Author**
     - Marc Gueury, Master Principal Cloud Engineer
-    - Marek Krátký, Cloud Storage Specialist 
+    - Marek Krátký, Principal Solution Architect, EMEA 
