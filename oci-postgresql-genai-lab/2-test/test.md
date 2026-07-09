@@ -87,6 +87,6 @@ None
 
 - **Author**
     - Marc Gueury, Master Principal Account Cloud Engineer
-    - Marek Krátký, Cloud Storage Specialist 
+    - Marek Krátký, Principal Solution Architect, EMEA
 
 
